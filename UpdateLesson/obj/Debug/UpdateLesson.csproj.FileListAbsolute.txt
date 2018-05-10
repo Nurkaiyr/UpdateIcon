@@ -1,0 +1,15 @@
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\bin\Debug\UpdateLesson.exe.config
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\bin\Debug\UpdateLesson.exe
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\bin\Debug\UpdateLesson.pdb
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\MainWindow.g.cs
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\App.g.cs
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson_MarkupCompile.cache
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson_MarkupCompile.lref
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\MainWindow.baml
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson.g.resources
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson.Properties.Resources.resources
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson.csproj.GenerateResource.cache
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson.exe
+c:\users\едиген\source\repos\UpdateLesson\UpdateLesson\obj\Debug\UpdateLesson.pdb
